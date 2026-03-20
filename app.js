@@ -120,8 +120,19 @@ let e=10;
 console.log(a2 > 15 && b2 > 15)
 // ||: true when any one of the condition is true
 // ||: false if all conditon is false;
+console.log(a2 <5 || b2<15)
+console.log(a2 > 15 || b2 >15)
+
+// !: not
+
+console.log(!true);
 
 
+// ternary operator
+
+let age=18;
+let s=age>=18 ? "Adult" :"Minor";
+console.log(s);
 
 /* switch: it is use to execute one block of code out of many options 
 it evaluates the expression and based on the value matched with cases it exexute the block of code
