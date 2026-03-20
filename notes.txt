@@ -1,0 +1,21 @@
+
+/*1. var : It is a function scope or global scope variable , it allows redeclaration and reassignment. it supports 
+hoisting
+
+
+2. let : it is block scoped variable. it allows reassignment but not redeclaration.
+
+3. const: it is a block scoped variable , it does not allow reassignment and redeclaration. 
+it must be intialized at the of declaration.*/
+
+//primitive data types: it stored the actual values and its value can not be change. they are copied by value ;
+
+
+
+//Non primitive data types: it stored the address and its value can be changed . they are copied by refernce;
+
+
+
+
+
+
